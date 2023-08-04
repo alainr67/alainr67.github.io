@@ -1,0 +1,73 @@
+body{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-image: url(D-9eoOCXoAA20tK.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+h1{
+   text-align: center;
+   text-decoration: underline;
+   color: skyblue;
+
+ 
+}
+
+
+
+p{
+    text-align: center;
+background-color: blanchedalmond;    
+}
+
+table{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td,th {
+ border: lpx solid #dddddd;
+ text-align: left;
+ padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd; 
+}
+.form_contact{
+    width: 300px;
+    height: auto;
+    margin: 60px auto;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #fbfbfb;
+    padding-left: 20px;
+}
+#nombre,#apellidos,#email,#telcel{
+    background-color: #fbfbfb;
+    width: 246px;
+    height: 40px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ab4493;
+    margin-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+.kanay{
+    width: 500px;
+    height: 310px;
+    float: right;
+    
+}
+
+.cv{
+   width: 200px;
+   height: 200px;
+   border-radius: 150px;
+
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
